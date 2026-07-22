@@ -52,7 +52,7 @@ This project demonstrates how business intelligence tools can be used to monitor
 
 ## 📷 Dashboard Preview
 
-![Stock Market Dashboard](stock_market_dashboard.png)
+![Stock Market Dashboard](https://github.com/MadhumithaSS19/Stock-Market-Analysis-Dashboard/blob/03908fb2da05e34a573addd133c552d8615b7a39/MADHUMITHA%20S%20S-stock%20market%20screenshot.png)
 
 ---
 
